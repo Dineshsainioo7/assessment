@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.2.1",
+        "axios": "^1.6.1",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "formik": "^2.4.5",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.20.1",
+        "react-toastify": "^9.1.3",
+        "yup": "^1.3.2"
+    }
+}
